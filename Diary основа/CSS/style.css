@@ -1,0 +1,420 @@
+ *{
+     margin: 0px;
+     padding: 0px;
+
+ }
+
+
+.sini{
+   background-color: rgb(5,149,226); 
+   color: white;
+   height: 100px;
+   font-size: 2.5em;
+   line-height: 100px;
+   padding-left: 425px;
+   width: 1478px;
+   
+}
+
+.znak1{
+    position: relative;
+    top: -95px;
+    right: -1500px;
+}
+
+.znak2{
+    position: relative;
+    top: -123px;
+    right: -1530px;
+}
+
+.znak3{
+    position: relative;
+    top: -149px;
+    right: -1560px;
+}
+
+/* меню в шапке   */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.fish1 {
+    
+    position: relative;
+    left: -22px;
+    top: -83px;
+    
+}
+
+.fish2 {
+
+    position:relative;
+    right: -363px;
+    top: -297px;
+    
+}
+
+.fish3 {
+    position:relative;
+    right: -748px;
+    top: -512px;
+}
+
+.fish4 {
+    position:relative;
+    right: -1133px;
+    top: -726px;
+}
+
+.fish5 {
+    position: relative;
+    right: -1518px;
+    top: -941px;
+}
+
+.fish6 {
+    position: relative;
+    left: -22px;
+    top: -944px;
+}
+
+.fish7 {
+    position: relative;
+    right: -363px;
+    top: -1159px;
+}
+
+.fish8 {
+    position: relative;
+    right: -748px;
+    top: -1373px;
+}
+
+.fish9 {
+    position: relative;
+    right: -1133px;
+    top: -1588px;
+}
+
+.fish10 {
+    position: relative;
+    right: -1518px;
+    top: -1802px;
+}
+
+.zagolovok2{
+    background-color: rgb(0,27,49);
+    text-align: center;
+    font-size: 2.5em;
+    position: relative;
+    top: -1806px;
+    color: white;
+    width: 1903px;
+    
+    
+    
+}
+
+.text2{
+    background-color: rgb(0,27,49);
+    text-align: center;
+    font-size: 2em;
+    position: relative;
+    top: -1806px;
+    color: white;
+    width: 1903px;
+}
+
+.gt{
+    background-color: rgb(0,56,102);
+    position: relative;
+    right: -410px;
+    top: -1806px;
+   width: 500px;
+   color: white;
+}
+
+.gtg {
+    background-color: rgb(0,56,102);
+    position: relative;
+    right: -810px;
+    top: -1985.5px;
+    width: 500px;
+    color: white;
+
+} 
+
+.gtgt{
+    background-color: rgb(0,56,102);
+    position: relative;
+    right: -1160px;
+    top: -2165px;
+    width: 500px;
+    color: white;
+}
+
+.fish3d{
+    position: relative;
+    right: 6px;
+    
+}
+
+
+
+
+
+
+.blok{
+    background-color: rgb(0,27,49);
+    position: relative;
+    top: -2350px;
+    width: 410px;
+    height: 1000px;
+}
+ 
+
+.blockk{
+    background-color: rgb(0,27,49);
+    position: relative;
+    top: -3350px;
+    right: -1523px;
+    width: 380px;
+    height: 1000px;
+    
+} 
+
+.Welcome{
+    position: relative;
+    top: -4165px;
+    right: -410px;
+    color: white;
+    background-color: rgb(0, 27, 49);
+    width: 1200px;
+    height: 765px;
+    padding: 20px 0px 0px 0px
+}
+
+.nemo{
+    position: relative;
+    top: -4880px;
+    right: -411px;
+
+}
+
+.menu1{
+    position: relative;
+    top: -4880px;
+    right: -410px;
+    /*
+    font-size: 1.2em; */
+    color: white;
+}
+
+ .News{
+     position: relative;
+     top: -5237px;
+     color: white;
+     right: -810px;
+     
+ }
+ 
+ .data{
+    color: rgb(1,130,193);
+    
+ }
+
+ .adata{
+     position: relative;
+     top: -5135px;
+     right: -808px;
+     color: white;
+ }
+
+ .img1:hover{
+     color: yellow;
+     color: aqua;
+ }
+
+ .blok3{
+     position: relative;
+     top: -5490px;
+     right: -1200px;
+     color: white;
+ }
+
+ .text3e{
+    position: relative;
+    top: -5490px;
+    right: -1200px;
+    color: white;
+
+ }
+
+ .ezh{
+     position: relative;
+     top: -5475px;
+     right: -1200px;
+ }
+
+ .quad1{
+    position: relative;
+    top: -5542px;
+    right: -1300px;
+    color: white;
+ }
+
+ .ezh2{
+    position: relative;
+    top: -5510px;
+    right: -1200px;
+ }
+
+ .quad2{
+    position: relative;
+    top: -5580px;
+    right: -1300px;
+    color: white;
+ }
+
+ .ezh3 {
+    position: relative;
+    top: -5545px;
+    right: -1200px;
+
+ }
+
+ .quad3 {
+    position: relative;
+    top: -5610px;
+    right: -1300px;
+    color: white;
+ }
+/*
+ .tab{ 
+    position: relative;
+    top: -5500px;
+    right: -400px;
+    
+ } */
+
+ .cell1{
+     background-color: rgb(2,167,245);
+     color: white;
+     width: 67px;
+     height: 34px;
+     font-size: 1.2em;
+     position: relative;
+     top: -5500px;
+     right: -410px;
+     padding: 10px 0px 0px 10px;
+ }
+
+ .cell2{
+    background-color: rgb(2,167,245);
+    color: white;
+    position: relative;
+    top: -5546px;
+    right: -805px;
+    width: 35px;
+    height: 41px;
+    font-size: 2em;
+    padding: 3px 0px 0px 15px;
+ }
+
+ .cell3{
+    background-color: rgb(2,167,245);
+    color: white;
+    position: relative;
+    top: -5590px;
+    right: -863px;
+    width: 35px;
+    height: 41px;
+    font-size: 2em;
+    padding: 3px 0px 0px 15px;
+ }
+
+ .cell4{
+    background-color: rgb(2,167,245);
+    color: white;
+    width: 67px;
+    height: 34px;
+    font-size: 1.2em;
+    position: relative;
+    top: -5640px;
+    right: -1199px;
+    padding: 10px 0px 0px 10px;
+ }
+
+ .fon2{
+    background-color: rgb(0, 27, 49);   
+    position: relative;
+    top: -5500px;
+    height: 200px;
+    width: 1903px;
+    
+ }
+
+ .podval{
+     background-color: rgb(5,149,226);  
+     position: relative;
+     top: -5734px;
+     width: 1903px;
+     height: 150px;
+
+
+ }
+
+ .kopirait{
+     position: relative;
+     top: -5820px;
+     right: -410px;
+     color: white;
+ }
+
+ ul.nav > li {
+    display: inline;	
+    position: relative;
+    top: -5840px;
+    right: -1450px;
+    color: white;
+    
+    
+ }
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

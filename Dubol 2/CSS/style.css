@@ -1,0 +1,230 @@
+
+@import url("Font/Asap/font-asap.css");
+@import url("Font/Droid_Sans/font-droid.css");
+@import url("Font/Oleo_Script/font-oleo.css");
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+#header1{
+    width: 1903px;
+}
+
+.Aquarium{
+
+    font-size: 3em;
+    position: relative;
+    top: -120px;
+    right: -378px;
+    color: white;
+    font-family: "OleoScript";
+    font-weight: bold;
+    font-style: normal;
+    
+    
+}
+
+.bod{
+    background-color: rgb(0,27,49);
+    color: white;
+}
+
+.container-1{
+ 
+}
+
+
+.box1{ position: relative;
+    left: 1380px;
+    top: -200px;
+    
+
+}
+
+.box2fish{
+    position: relative;
+    top: -86px;
+    display: flex;
+    
+} 
+
+.box2fish2{
+    display: flex;
+    position: relative;
+    bottom: 86px;
+}
+
+.Hello{
+    color: white;
+    font-size: 2.5em;
+    position: relative;
+    left: 392px;
+    bottom: 35px;
+    font-family: "OleoScript";
+    font-weight: bold;
+    font-style: normal;
+    
+
+}
+
+.zte{ 
+    color: white;
+    font-size: 4em;
+    position: relative;
+    top: -50px;
+    right: -925px;
+    font-family: "DroidSans";
+    font-weight: normal;
+    font-style: normal;
+}
+
+.block1{
+    position: relative;
+    right: -335px;
+}
+
+.img1{
+    height: 250px;
+    width: 1300px;
+    position: relative;
+    right: -20px;
+}
+
+.ttt{
+
+}
+
+.ctc{
+ position: relative;
+ top: -20px;
+ left: 15px;
+}
+
+.etc{
+    position: relative;
+    right: -415px;
+    top: -47px;
+}
+
+.Fish1{
+    position: relative;
+    top: -220px;
+    right: -350px;
+}
+
+.Fishblock1{
+    font-family: "Asap";
+    font-weight: bold;
+    font-style: italic;
+    font-size: 0.8em;
+    position: relative;
+    top: -255px;
+    right: -450px;
+
+   }
+
+ .text1{
+    font-family: "OleoScript";
+    font-weight: bold;
+    font-style: normal;
+    font-size: 2em;
+    position: relative;
+    top: -8px;
+ }
+
+ .text2{
+
+ }
+
+ .text3{
+     position: relative;
+     bottom: -20px;
+     font-size: 2em;
+ }
+
+.Fish2{
+    position: relative;
+    top: -415px;
+    right: -750px;
+}
+    
+
+
+.Fishblock2{
+    font-family: "Asap";
+    font-weight: bold;
+    font-style: italic;
+    font-size: 0.8em;
+    position: relative;
+    top: -447px;
+    right: -870px;
+}
+
+.Adipiscingelit{
+    font-size: 2em;
+    font-family: "OleoScript";
+    font-weight: bold;
+    font-style: normal;
+    
+    position: relative;
+    top: -8px;
+}
+
+.CONSECTETUERADIPISCINGPRAESENT{
+
+}
+
+.more{
+    position: relative;
+     bottom: -15px;
+     font-size: 2em;
+}
+
+
+
+
+
+
+
+
+
+
+
+.Fish3{
+    position: relative;
+    top: -615px;
+    right: -1150px;
+}
+
+
+.Fishblock3{
+    font-family: "Asap";
+    font-weight: bold;
+    font-style: italic;
+    font-size: 0.8em;
+    position: relative;
+    top: -645px;
+    right: -1270px;
+}
+
+.Maurisaccumsan{
+    font-size: 2em;
+    font-family: "OleoScript";
+    font-weight: bold;
+    font-style: normal;
+    
+    position: relative;
+}
+
+.LUMMOLESTIMELACUIIRHSAENEANNOUUM{
+    
+}
+
+.more2{
+    position: relative;
+     bottom: -17px;
+     font-size: 2em;    
+}
